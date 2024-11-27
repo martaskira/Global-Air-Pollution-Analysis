@@ -39,5 +39,8 @@ The following steps were taken to conduct the analysis:
    - Document findings through visualizations, statistical summaries, and interpretations
    - Discuss implications for public health policies aimed at improving urban air quality
 
-  ## Conclusion
-  The project provides valuable insights into urban air quality and its effects on respiratory health by leveraging data analysis techniques. The findings should contribute to a better understanding of how specific pollutants impact public health, ultimately informing strategies for mitigating air pollution in urban areas.
+## Results
+...
+
+## Conclusion
+The project provides valuable insights into urban air quality and its effects on respiratory health by leveraging data analysis techniques. The findings should contribute to a better understanding of how specific pollutants impact public health, ultimately informing strategies for mitigating air pollution in urban areas.
