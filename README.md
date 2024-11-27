@@ -26,7 +26,8 @@ The following steps were taken to conduct the analysis:
 1. Data preparation:
   - Load the dataset into a Jupyter Notebook
   - Check the dataset for missing values and filter for relevant columns
-2. Data visualization:
+ 
+3. Data visualization:
   - Use boxplots to visualize the distribution of AQI values for each pollutant across different regions
   - Use comparative visualizations to highlight which pollutants are most significant in areas with unhealthy air quality
 3. Statistical Analysis:
