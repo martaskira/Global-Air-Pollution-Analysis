@@ -4,14 +4,14 @@ This project aims to analyze the impact of urban air quality on respiratory heal
 
 ## Dataset
 The dataset used for this analysis is the Global Air Pollution Dataset, containing the following columns:
-    - **Country**: The country where the air quality data was collected
-    - **City**: The specific city of measurement within the country
-    - **AQI Value**: The overall Air Quality Index value
-    - **AQI Category**: The classification of the AQI value (Good, Moderate, Unhealthy)
-    - **CO AQI Value**: The AQI value for Carbon Monoxide
-    - **Ozone AQI Value**: The AQI value for the Ozone
-    - **NO2 AQI Value**: The AQI value for Nitrogen Dioxide
-    - **PM2.5 AQI Value**: The AQI value for PM2.5
+- **Country**: The country where the air quality data was collected
+- **City**: The specific city of measurement within the country
+- **AQI Value**: The overall Air Quality Index value
+- **AQI Category**: The classification of the AQI value (Good, Moderate, Unhealthy)
+- **CO AQI Value**: The AQI value for Carbon Monoxide
+- **Ozone AQI Value**: The AQI value for the Ozone
+- **NO2 AQI Value**: The AQI value for Nitrogen Dioxide
+- **PM2.5 AQI Value**: The AQI value for PM2.5
 
   The dataset can be found here ...
 
