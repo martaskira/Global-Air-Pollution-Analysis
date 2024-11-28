@@ -25,6 +25,7 @@ Urban air pollution is a critical public health issue linked to various respirat
 The following steps were taken to conduct the analysis:
 1. Data preparation:
    - Load the dataset into a Jupyter Notebook
+   - Install pandas, matplotlib, and seaborn to read, clean, and analyze the dataset
    - Check the dataset for missing values and filter for relevant columns
 
 2. Data visualization:
@@ -40,7 +41,25 @@ The following steps were taken to conduct the analysis:
    - Discuss implications for public health policies aimed at improving urban air quality
 
 ## Results
-...
-
+**Correlation Analysis**
+   - Strong relationships between various pollutants and the overall AQI were revealed. PM2.5 showed a high correlation of 0.98 with AQI values indicating that this pollutant worsens the AQI significantly.
+   - PM2.5 is a critical factor in determining air quality and its associated health risks.
+**Pollutant Contributions**
+   - Pollutants Pm2.5 and ozone have the highest AQI values in the unhealthy AQI category, emphasizing the need for targeted pollution control measures.
+**Visualizations**
+   - Boxplot:
+        - PM2.5 consistently exhibits the highest median AQI value among all pollutants analyzed, indicating it is a major contributor to poor air quality in urban settings.
+        - The interquartile range for PM2.5 is wider than that of CO and Ozone, suggesting greater variability in pollution levels across different regions.
+        - Several outliers are present for PM2.5 recording exceptionally high AQI values classified as unhealthy. This highlights urgent policy attention to address severe air quality issues
+        - In contrast, CO and NO2 show lower median AQI values and fewer outliers, suggesting they may not pose as significant a health risk as PM2.5 in most regions.
+   - Barplot:
+        - PM2.5 is shown as the most significant pollutant contributor in unhealthy regions, followed by Ozone.
+        - CO and NO2 show comparatively lower average AQI values but still contribute to unhealthy air quality conditions.
+        - The vast difference between PM2.5 AQI values and the other comparative pollutants highlights an urgent need for targeted intervention.
+   - Plot for Countries:
+        - The Republic of Korea shows a significant concern with having the highest average AQI value for PM2.5.
+        - Bahrain and Mauritania follow as the next two countries with the highest average AQI values for PM2.5.
+        - The ozone pollutant has the second highest average for AQI values classifying PM2.5 and Ozone as the most prevalent pollutants to target.
+     
 ## Conclusion
-The project provides valuable insights into urban air quality and its effects on respiratory health by leveraging data analysis techniques. The findings should contribute to a better understanding of how specific pollutants impact public health, ultimately informing strategies for mitigating air pollution in urban areas.
+The project provides valuable insights into urban air quality and its effects on respiratory health by leveraging data analysis techniques. The findings should contribute to a better understanding of how specific pollutants impact public health, ultimately informing strategies for mitigating air pollution in urban areas. The prevalence of high PM2.5 levels in Korea, Bahrain, and Mauritania highlights a pressing public health concern that necessitates immediate action. By implementing targeted policies aimed at reducing Pm2.5 emissions and enhancing public awareness about air quality issues, these countries can mitigate the associated health risks and improve overall respiratory health outcomes for their population.
