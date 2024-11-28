@@ -46,6 +46,7 @@ The following steps were taken to conduct the analysis:
    - PM2.5 is a critical factor in determining air quality and its associated health risks.
 **Pollutant Contributions**
    - Pollutants Pm2.5 and ozone have the highest AQI values in the unhealthy AQI category, emphasizing the need for targeted pollution control measures.
+
 **Visualizations**
    - Boxplot:
         - PM2.5 consistently exhibits the highest median AQI value among all pollutants analyzed, indicating it is a major contributor to poor air quality in urban settings.
