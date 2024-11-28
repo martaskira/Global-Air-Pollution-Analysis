@@ -41,9 +41,11 @@ The following steps were taken to conduct the analysis:
    - Discuss implications for public health policies aimed at improving urban air quality
 
 ## Results
+
 **Correlation Analysis**
    - Strong relationships between various pollutants and the overall AQI were revealed. PM2.5 showed a high correlation of 0.98 with AQI values indicating that this pollutant worsens the AQI significantly.
    - PM2.5 is a critical factor in determining air quality and its associated health risks.
+
 **Pollutant Contributions**
    - Pollutants Pm2.5 and ozone have the highest AQI values in the unhealthy AQI category, emphasizing the need for targeted pollution control measures.
 
